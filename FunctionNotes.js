@@ -1,5 +1,5 @@
 //Function Notes
-//Step1 - Define the function
+// //Step1 - Define the function
 function sayHello(){
 console.log("Hello");
 }
