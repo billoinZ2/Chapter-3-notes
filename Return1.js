@@ -9,3 +9,9 @@ function nameSwapper(){
 
 let myName=nameSwapper();
 console.log(myName);
+
+
+//q2
+function temperature(){
+
+}
