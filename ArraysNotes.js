@@ -53,3 +53,4 @@ let citrus = fruits.slice(2,4);
 //1st number (2) is the starting index. Include it.
 //2nd number (4) is the stop BEFORE index. Exclude it.
 console.log(citrus);
+
